@@ -1,0 +1,38 @@
+# PlatformIO
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+*.pyc
+
+# Arduino IDE
+*.o
+*.a
+*.so
+build/
+*.hex
+*.elf
+*.eep
+*.elf.map
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+
+# Logs
+*.log
+
+# Dependencies
+lib/
+libraries/
+node_modules/
